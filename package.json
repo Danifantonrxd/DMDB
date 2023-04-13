@@ -1,0 +1,19 @@
+{
+  "name": "dmdb",
+  "version": "1.0.0",
+  "description": "a way to see the latest movies on theaters",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Danifantonrxd/DMDB.git"
+  },
+  "author": "danifanton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danifantonrxd/DMDB/issues"
+  },
+  "homepage": "https://github.com/Danifantonrxd/DMDB#readme"
+}
