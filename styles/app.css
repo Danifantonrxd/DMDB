@@ -146,9 +146,15 @@ button {
   font-size: 36px;
   margin-bottom: 16px;
   cursor: pointer;
-  display: inline-block;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  place-content: center;
 }
 .header-arrow--white {
+  background-color: var(--purple-light-2);
+  border-radius: 50%;
   color: var(--purple-light-1);
 }
 
